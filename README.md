@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulraheem040
+- 👋 Hi, I’m Abdul Raheem.
 - 👀 I’m interested in Generative AI and ROS2 Development.
 - 🌱 I’m currently learning ROS2 and Deep learning.
 - 💞️ I’m looking to collaborate on Web based AI development, Robotics software and Model develpment.
